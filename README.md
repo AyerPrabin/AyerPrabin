@@ -27,6 +27,8 @@ A Free Fire tournament platform for players in Nepal with **450+ registered play
 
 | Project | What it is | CI |
 | --- | --- | --- |
+| **[jd-ledger](https://github.com/AyerPrabin/jd-ledger)** | A points-wallet ledger in Python and PostgreSQL, built on how my platform's wallet works. Append-only history, idempotent transfers, refund-once rules and ordered row locks, behind a token-secured FastAPI API. 61 tests, including 50 parallel transfers and property-based tests. | [![CI](https://github.com/AyerPrabin/jd-ledger/actions/workflows/ci.yml/badge.svg)](https://github.com/AyerPrabin/jd-ledger/actions) |
+| **[jd-points-table](https://ayerprabin.github.io/jd-points-table/)** | A React + TypeScript app for scoring squad events on a phone: placement and kill points, tie-breaks, and a way to handle a lost match result. 95 Vitest tests and a Playwright end-to-end test. | [![CI](https://github.com/AyerPrabin/jd-points-table/actions/workflows/ci.yml/badge.svg)](https://github.com/AyerPrabin/jd-points-table/actions) |
 | **[jd-tiny-httpd](https://github.com/AyerPrabin/jd-tiny-httpd)** | A static-file HTTP/1.1 server in C11, written to learn what sits under the frameworks. Path traversal blocked (including `%2e%2e` and symlinks), 121 unit tests, Valgrind in CI. | [![CI](https://github.com/AyerPrabin/jd-tiny-httpd/actions/workflows/ci.yml/badge.svg)](https://github.com/AyerPrabin/jd-tiny-httpd/actions) |
 | **[jd-stats-api](https://github.com/AyerPrabin/jd-stats-api)** | A read-only REST API for my tournament results. FastAPI, plain SQL on SQLite, 32 tests and a non-root Docker image. | [![CI](https://github.com/AyerPrabin/jd-stats-api/actions/workflows/ci.yml/badge.svg)](https://github.com/AyerPrabin/jd-stats-api/actions) |
 | **[jd-arena-insights](https://github.com/AyerPrabin/jd-arena-insights)** | SQL analysis of my platform's growth from anonymised totals. Signups went from 102 days for the first 100 players to 5 days per 100 by November. | [![CI](https://github.com/AyerPrabin/jd-arena-insights/actions/workflows/ci.yml/badge.svg)](https://github.com/AyerPrabin/jd-arena-insights/actions) |
@@ -40,6 +42,7 @@ A Free Fire tournament platform for players in Nepal with **450+ registered play
 ![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1C?style=flat-square&logo=typescript&logoColor=D4AF37)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=D4AF37)
 ![C](https://img.shields.io/badge/C-1C1C1C?style=flat-square&logo=c&logoColor=D4AF37)
+![React](https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=D4AF37)
 ![SQL](https://img.shields.io/badge/SQL-1C1C1C?style=flat-square&logo=postgresql&logoColor=D4AF37)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-1C1C1C?style=flat-square&logo=html5&logoColor=D4AF37)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1C1C1C?style=flat-square&logo=fastapi&logoColor=D4AF37)
