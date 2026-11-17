@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ayerprabin"><img src="https://img.shields.io/badge/LinkedIn-ayerprabin-D4AF37?style=for-the-badge&labelColor=0C0C0C&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"></a>
-  <a href="https://ayerprabin.github.io/prabin-ayer-portfolio/"><img src="https://img.shields.io/badge/Portfolio-visit-D4AF37?style=for-the-badge&labelColor=0C0C0C&logo=githubpages&logoColor=D4AF37" alt="Portfolio"></a>
+  <a href="https://ayerprabin.com/"><img src="https://img.shields.io/badge/Portfolio-visit-D4AF37?style=for-the-badge&labelColor=0C0C0C&logo=githubpages&logoColor=D4AF37" alt="Portfolio"></a>
   <a href="https://jdesport.co.uk"><img src="https://img.shields.io/badge/JD_Esports_Arena-live-D4AF37?style=for-the-badge&labelColor=0C0C0C&logo=googlechrome&logoColor=D4AF37" alt="JD Esports Arena"></a>
 </p>
 
@@ -54,4 +54,4 @@ A Free Fire tournament platform for players in Nepal with **450+ registered play
 
 I work with AI coding assistants, and I check, test and ship what goes live myself.
 
-📫 [LinkedIn](https://linkedin.com/in/ayerprabin) · [Portfolio](https://ayerprabin.github.io/prabin-ayer-portfolio/) · ayerprabin95@gmail.com
+📫 [LinkedIn](https://linkedin.com/in/ayerprabin) · [Portfolio](https://ayerprabin.com/) · ayerprabin95@gmail.com
